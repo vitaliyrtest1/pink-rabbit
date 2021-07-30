@@ -43,7 +43,6 @@ export default class FeaturesSection extends React.Component {
                         </div>
                     )}
                 </div>
-                ty
             </div>
         )
     }
