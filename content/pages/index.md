@@ -71,7 +71,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA1
+    title: This Is A CTA
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
@@ -81,12 +81,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    has_background: false
-    background_color: white
-    type: cta_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
