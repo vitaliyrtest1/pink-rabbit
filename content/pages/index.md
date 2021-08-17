@@ -18,7 +18,7 @@ sections:
             url: /features
             style: secondary
           - label: lorem-ipsum
-            url: '#'
+            url: 'mailto:vit@ribachenko.com'
             style: link
             new_window: false
             no_follow: false
