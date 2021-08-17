@@ -18,7 +18,7 @@ sections:
             url: 'http://salen.devv'
             style: secondary
           - label: lorem-ipsum
-            url: 'mailto:vit@ribachenko.com'
+            url: 'http://salen.dev'
             style: link
             new_window: false
             no_follow: false
