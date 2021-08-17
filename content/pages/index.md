@@ -15,7 +15,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More!
-            url: 'http://salen.dev'
+            url: 'http://salen.devv'
             style: secondary
           - label: lorem-ipsum
             url: 'mailto:vit@ribachenko.com'
