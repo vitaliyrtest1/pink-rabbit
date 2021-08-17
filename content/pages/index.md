@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: features_section
-    title: Features!!!!!!
+    title: Features!
     features:
       - title: Feature 1
         content: >-
