@@ -15,7 +15,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More!
-            url: 'http://salen.devv'
+            url: /test
             style: secondary
           - label: lorem-ipsum
             url: 'http://salen.devs'
