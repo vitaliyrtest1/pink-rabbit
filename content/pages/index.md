@@ -88,7 +88,7 @@ seo:
       value: The preview of the Starter theme
       keyName: property
     - name: 'og:image'
-      value: /images/5.png
+      value: /images/4-558c2bc4.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
