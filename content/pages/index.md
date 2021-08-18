@@ -18,7 +18,7 @@ sections:
             url: 'http://salen.devv'
             style: secondary
           - label: lorem-ipsum
-            url: 'http://salen.dev'
+            url: 'http://salen.devs'
             style: link
             new_window: false
             no_follow: false
