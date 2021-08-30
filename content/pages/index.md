@@ -17,6 +17,12 @@ sections:
           - label: Learn More!
             url: /test
             style: secondary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
           - label: lorem-ipsum123
             url: '#'
             style: link
