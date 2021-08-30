@@ -42,6 +42,8 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+  - title: lorem-ipsum
+    type: contact_section
   - type: hero_section
     title: This Is A Big Hero Headline1234
     subtitle: >-
