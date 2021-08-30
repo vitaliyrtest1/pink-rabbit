@@ -17,7 +17,7 @@ sections:
           - label: Learn More!
             url: /test
             style: secondary
-          - label: lorem-ipsum123
+          - label: lorem-ipsum
             url: '#'
             style: link
             new_window: false
