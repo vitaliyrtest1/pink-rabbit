@@ -43,7 +43,6 @@ sections:
             url: /features
             style: secondary
   - title: lorem-ipsum!!
-    subtitle: lorem-ipsum
     actions: []
     align: left
     image_alt: lorem-ipsum
