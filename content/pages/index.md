@@ -42,7 +42,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - title: lorem-ipsum
+  - title: lorem-ipsum!!
     subtitle: lorem-ipsum
     actions: []
     align: left
